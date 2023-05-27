@@ -8,6 +8,7 @@ Three customizable pages: These pages appear when the application is opened for 
 Customizable startup page: This page appears each time the application is opened. You can customize it based on your preferences and project requirements.
 
 Distinct and customizable bottom menu: The application features a visually appealing and customizable bottom menu. You can customize this menu and add links or functions as desired.
+![NeomView](https://github.com/aredoteam/NeomVidew/blob/main/menu.png)
 
 Fingerprint support: The application allows for locking access with the user's fingerprint. This feature ensures security and privacy for the user.
 

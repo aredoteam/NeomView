@@ -14,6 +14,8 @@ Distinct and customizable bottom menu: The application features a visually appea
 
 Fingerprint support: The application allows for locking access with the user's fingerprint. This feature ensures security and privacy for the user.
 
+![NeomView](https://github.com/aredoteam/NeomVidew/blob/main/fingerprint.png)
+
 App lock with a password: Users can set a password to lock the application, enhancing security and preventing unauthorized access.
 
 Built-in barcode reader: The application includes a built-in barcode reader that allows users to open links within the app while verifying the connection's SSL authenticity.

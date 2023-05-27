@@ -1,4 +1,4 @@
-# NeomVidew
+# NeomView
 Android Studio application to convert the website into an application
 
 ![NeomView](https://github.com/aredoteam/NeomVidew/blob/main/neom-vew-by-aredo.io.png)

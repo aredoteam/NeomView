@@ -1,6 +1,6 @@
 # NeomVidew
 Android Studio application to convert the website into an application
-![NeomView](https://github.com/aredoteam/NeomView/blob/main/neom-vew-by-aredo.io.png)
+![NeomView](https://github.com/aredoteam/NeomVidew/blob/main/neom-vew-by-aredo.io.png)
 Android Studio application to convert the website into an application "NeomView" is a comprehensive application that converts your website into an Android Studio application. The application includes innovative and customizable features, such as:
 
 Three customizable pages: These pages appear when the application is opened for the first time. You can modify and customize the content of these pages according to your needs.
